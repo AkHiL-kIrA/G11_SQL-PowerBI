@@ -1,0 +1,7 @@
+﻿Payment Method,Payment_index
+Venmo,1
+Cash,2
+Credit Card,3
+PayPal,4
+Bank Transfer,5
+Debit Card,6

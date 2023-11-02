@@ -1,0 +1,49 @@
+﻿State Code,Index,State,Region
+AL,1,Alabama,South
+AR,2,Arkansas,South
+AZ,3,Arizona,West
+CA,4,California,West
+CO,5,Colorado,West
+CT,6,Connecticut,Northeast
+DC,7,District of Columbia,South
+DE,8,Delaware,South
+FL,9,Florida,South
+GA,10,Georgia,South
+HI,11,Hawaii,West
+IA,12,Iowa,Midwest
+ID,13,Idaho,West
+IL,14,Illinois,Midwest
+IN,15,Indiana,Midwest
+KS,16,Kansas,Midwest
+KY,17,Kentucky,South
+LA,18,Louisiana,South
+MA,19,Massachusetts,Northeast
+MD,20,Maryland,South
+ME,21,Maine,Northeast
+MI,22,Michigan,Midwest
+MN,23,Minnesota,Midwest
+MO,24,Missouri,Midwest
+MS,25,Mississippi,South
+MT,26,Montana,West
+NC,27,North Carolina,South
+ND,28,North Dakota,Midwest
+NE,29,Nebraska,Midwest
+NH,30,New Hampshire,Northeast
+NJ,31,New Jersey,Northeast
+NM,32,New Mexico,West
+NV,33,Nevada,West
+NY,34,New York,Northeast
+OH,35,Ohio,Midwest
+OK,36,Oklahoma,South
+OR,37,Oregon,West
+PA,38,Pennsylvania,Northeast
+RI,39,Rhode Island,Northeast
+SC,40,South Carolina,South
+SD,41,South Dakota,Midwest
+TN,42,Tennessee,South
+TX,43,Texas,South
+UT,44,Utah,West
+VA,45,Virginia,South
+WA,46,Washington,West
+WI,47,Wisconsin,Midwest
+WY,48,Wyoming,West
